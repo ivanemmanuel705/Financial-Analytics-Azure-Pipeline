@@ -1,0 +1,5 @@
+pyspark
+delta-spark
+pandas
+python-dotenv
+azure-storage-file-datalake
